@@ -4,3 +4,5 @@ I used to use Pidgin the instant message client. A little while after I stopped 
 The first step was combining all the logs for each client protocol (steam, aim, etc) so they each only had one file. Then the scraper went through each file for each person (they're weren't many) and added them to a output file which was easy to put in excel and graph.
 
 It's pretty ugly but it only had to do one job one time and well, it worked
+
+The end result might look like this ![Graph](http://i.imgur.com/iCQXbbo.png)
